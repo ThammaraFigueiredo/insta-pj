@@ -1,7 +1,8 @@
 # insta-pj
 <h1>Projeto criado com:</h1>
-- HTML
-- CSS
-- JAVASCRIPT
+<p>- HTML</p>
+<p>- CSS</p>
+<p>- JAVASCRIPT</p>
 <br>
-<h2> Desenvolvido no <a href="https://plataforma.devclub.com.br/>Devclub</a></h2>
+
+<h2>Desenvolvi esse projeto atraves do <a href="https://plataforma.devclub.com.br">Devclub</a></h2>
